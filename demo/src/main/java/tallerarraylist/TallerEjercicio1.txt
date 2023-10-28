@@ -1,0 +1,15 @@
+Integrantes Grupo:
+
+Nicola Lopez Trejos
+Andres Felipe Niño Rodriguez
+Juan Pablo Mejia Buesaquillo
+
+
+Definicion metodos Arraylist
+
+
+add: Agregar elemento
+get: Obtener el elemento en la posición index
+set: Reemplazar posición dada
+size: Consultar tamaño
+isEmpty: Validación boolean (False—> tiene dato o true—>vacia)
